@@ -1,0 +1,6 @@
+Electrophoretic Deposition Analizer let analyse your EDP
+
+1. Enter your name/experience name
+2. Enter your filename with the file extension
+3. See the result
+4. All results available in the log file, Menu/File/Logs
