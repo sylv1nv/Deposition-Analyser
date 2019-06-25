@@ -7,9 +7,14 @@ Deposition Analyser automatically gives you the surface covering percentage of a
 
 ## How-to
 
-
 ## Screenshot
 ![App Screenshot](/screenshots/app.PNG)
+
+Source | Processed
+------------ | -------------
+![sourced image](/screenshots/test.png) | ![Processed image](/screenshots/bin_test.png)
+
+
 
 ## Built With
 
