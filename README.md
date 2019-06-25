@@ -17,7 +17,7 @@ Deposition Analyser automatically gives you the surface covering percentage of a
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sylv1nv/Interdigits-CSV-Generator/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sylv1nv/Deposition-Analyzer/tags). 
 
 ## License
 
