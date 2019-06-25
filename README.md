@@ -13,6 +13,7 @@ Deposition Analyser automatically gives you the surface covering percentage of a
 ## Built With
 
 * [Python](https://www.python.org/)
+* [OpenCV](https://opencv.org/)
 * [Tkinter](https://wiki.python.org/moin/TkInter) - GUI
 
 ## Versioning
